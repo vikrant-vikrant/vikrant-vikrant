@@ -1,16 +1,16 @@
-# Vikrant's GitHub Portfolio
-Welcome to my GitHub profile! 👋 I'm Vikrant, a passionate developer continuously learning and building exciting projects.
+# Vikrant's Portfolio
+Hi there! I'm a passionate Web Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). I specialize in building scalable, high-performance web applications with a focus on user experience, clean architecture, and modern technologies.
 
-🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on Amazon project<br>🤝 I’m looking for help with Web hosting<br>🌱 I’m currently learning BackEnd<br>💬 Ask me about : Web Devlopment, MERN stack,
+I’m currently working on Wanderlust Looking to collaborate on Projects, currently learning Java with DSA, Ask me about : Web Devlopment, MERN stack.
 
 ## About Me
 I have recently completed:
-- **JavaScript Fundamentals**: Mastered the basics and advanced concepts of JavaScript.
-- **API Integration**: Learned how to work with APIs to fetch, manipulate, and display data dynamically.
-
+- **Advance JavaScript**: Mastered the basics and advanced concepts of JavaScript.
+- **RESTful API**: Learned how to work with APIs to fetch, manipulate, and display data dynamically.
+  
 ## Current Projects
 I am currently focusing on two major projects:
-1. **Airbnb Clone**:
+1. **Wanderlust**:
    - Developing a dynamic clone of Airbnb using modern front-end and back-end technologies.
    - Incorporating APIs for real-time booking functionality and interactive maps.
    
@@ -19,15 +19,14 @@ I am currently focusing on two major projects:
    - Learning state management and implementing database interactions for a seamless shopping experience.
 
 ## Skills
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **API**: RESTful APIs, JSON
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind Css.
+- **Backend**: Node.js, Express.js.
+- **Programming Languages** : Java, JavaScript, Python.
+- **Database**: MongoDB, SQL.
 - **Tools**: Git, GitHub, VS Code
 
 ## Future Goals
 - Deepen my understanding of full-stack development.
-- Explore advanced frameworks like Next.js.
 - Contribute to open-source projects to give back to the developer community.
 
 # 💻 Tech Stack:
